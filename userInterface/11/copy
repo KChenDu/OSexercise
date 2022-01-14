@@ -1,0 +1,3 @@
+#!/bin/bash
+cat src.txt > dst.txt
+car sec.txt > /dev/lp
